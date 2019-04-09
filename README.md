@@ -24,8 +24,10 @@ Your database connection URL will be similar to mongodb://localhost:27017/your-d
 ## Connecting to a cloud database
 If you wish to host the database online you can use mLabs. <br/>
 Login to heroku and download heroku CLI. <br/>
+Create a project on Heroku.
 Then follow the instructions on this [website](https://devcenter.heroku.com/articles/mongolab#adding-mlab-as-a-heroku-add-on).<br/>
-Make note of the connection string which will be added to the index.js file in the form: <br/>
-mongodb://<dbuser>:<dbpassword>@ds135036.mlab.com:35036/heroku_xcd1747x<br/>
+Click the mLabs Mongo DB option in the installed add-ons section of the project page. This which be the platform from where the DB will be managed. <br/>
+Make note of the connection string which can be added to the index.js file in the form: <br/>
+mongodb://<dbuser>:<dbpassword>@ds135036.mlab.com:35036/heroku_xcd1747x in order to connect to the cloud DB. <br/>
 
  
