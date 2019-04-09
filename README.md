@@ -5,9 +5,12 @@ The client side of the application is created using ReactJS and the server side 
 MongoDB is a noSQL database.<br/>
 The project uses mongoose which allows for relationships to be created within the data.<br/>
 This also provides schema validation.<br/>
-There are three collections in the database for this project, adverts,hunters and users.<br/>
+There are three collections in the database for this project, adverts,hunters and users. If you are running it locally you should set these up. <br/>
 It is a room-mate finding application built using react and mongo DB.<br/>
 Users can view a list home advertisement, they can then click on the home and view information about the tenants that live in the home.<br/> 
 A user can create an advert about themselves and describe what they are looking for in a home. <br/>
 Users can be created, updated and deleted from the database. <br/>
 Bulma is used for the styling of this project.<br/>
+
+This project also references [MERN STACK](https://github.com/IADT-AdvancedJS/mern-full-stack)<br/>
+
