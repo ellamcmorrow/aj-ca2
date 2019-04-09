@@ -1,5 +1,5 @@
 # advanced-js-ca2
-This is a CA for Advanced Javascript. <br/> 📝
+This is a CA for Advanced Javascript. 📝
 It uses the MERN Stack. MongoDB,Express,React and Node.<br/>  
 The client side of the application is created using ReactJS and the server side of the project is created using<br/> express, a backend REST API is created which connects the the database.<br/>
 MongoDB is a noSQL database.<br/>
